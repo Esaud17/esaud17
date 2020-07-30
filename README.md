@@ -10,6 +10,6 @@ I'm a Full Stack Developer, I like challenges and my purpose is discover new thi
 - 🌱 I’m currently learning a **React And React Native**...
 - 💬 Ask me about programming on  **JavaScript On Node**, **Ruby**, **Python**, **C# On Netcore**, **Rect and React Native**, **Angular And Ionic**, **Redux And Redux-Thunk** .
 - 👨🏽‍💻 Working with many technologies **JavaScript, Ruby on Rails, C# Net Core, React.js, Node.js, GraphQL, Postgrest, MongoDB** and **Redis**.
-- 📫 How to reach me: [Instagram](instagram.com/esaud90) and [Twitter](https://twitter.com/Esaud90).
+- 📫 How to reach me: [Instagram](https://instagram.com/esaud90) and [Twitter](https://twitter.com/Esaud90).
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love to create new technologies. 
