@@ -1,6 +1,6 @@
 ### Hi, I'm Esaud 👋
 
-<img width=256 align="right" src="https://github.com/Esaud17/esaud17/blob/master/img/esaud-rivera.png?raw=true" />
+<img width=256 align="right" src="https://github.com/Esaud17/esaud17/blob/master/img/nuukcode.png?raw=true" />
 
 I'm a Full Stack Developer, I like challenges and my purpose to discover new things. I specialize in programming with **JavaScript On Node**, **Ruby**, **Python**, **C# On Netcore**. I currently work as Developer on my own
 
